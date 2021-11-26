@@ -1,5 +1,9 @@
+Amulets
+a spherical amulet
+an uncursed amulet versus poison (being worn)
+
 Weapons
-2 +0 crossbow bolts (in quiver pouch)
+5 +0 crossbow bolts (in quiver pouch)
 8 +0 crossbow bolts
 9 +0 ya
 a +0 crossbow (alternate weapon; not wielded)
@@ -13,6 +17,7 @@ a blessed rusty +1 partisan
 
 Armor
 a blessed +0 dwarvish cloak
+a blessed +3 elven mithril-coat (being worn)
 a cursed -1 pair of levitation boots
 a cursed -1 splint mail
 a pair of hiking boots
@@ -24,6 +29,8 @@ an uncursed +3 orcish helm
 
 Comestibles
 2 uncursed food rations
+3 uncursed food rations
+a lichen corpse
 an uncursed carrot
 an uncursed fortune cookie
 an uncursed newt corpse
@@ -32,29 +39,37 @@ an uncursed tin of goblin meat
 Scrolls
 an uncursed scroll of create monster
 an uncursed scroll of enchant armor
+an uncursed scroll of light
 an uncursed scroll of magic mapping
 an uncursed scroll of remove curse
 an uncursed scroll of scare monster
 
 Spellbooks
 an uncursed spellbook of healing
+an uncursed spellbook of sleep
+an uncursed spellbook of wizard lock
 
 Potions
 2 uncursed potions of water
 a blessed potion of extra healing
 a brilliant blue potion
 a cursed potion of fruit juice
+a potion of unholy water
 an uncursed potion of confusion
 an uncursed potion of gain ability
+an uncursed potion of gain energy
 an uncursed potion of paralysis
 an uncursed potion of water
 an uncursed ring of teleportation
 
 Wands
 a wand of fire (0:4)
+a wand of lightning (0:3)
 a wand of lightning (0:6)
 a wand of make invisible (0:5)
+a wand of slow monster (0:3)
 a wand of undead turning (0:7)
+a wand of enlightenment (0:11)
 
 Rings
 an uncursed ring of teleportation
@@ -63,12 +78,11 @@ Tools
 a +0 pick-axe
 a +0 pick-axe (alternate weapon; not wielded)
 a magic marker (0:90)
-a tinning kit (0:33)
-a tinning kit (0:34)
-a tinning kit (0:71)
-a tinning kit (0:81)
+a tinning kit (0:86)
 an empty uncursed sack
 an uncursed lock pick
+an uncursed oil lamp
+an uncursed sack containing 4 items
 an uncursed skeleton key
 an uncursed tin opener
 an uncursed tin whistle
