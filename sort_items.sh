@@ -43,3 +43,4 @@ for item in "${StringArray[@]}"; do
 done
 
 # move tmpfile to items.txt
+mv ${tmpfile} "items.txt"
