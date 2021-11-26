@@ -72,6 +72,9 @@ an uncursed potion of paralysis
 an uncursed potion of water
 an uncursed ring of teleportation
 
+Rings
+an uncursed ring of teleportation
+
 Wands
 a wand of enlightenment (0:11)
 a wand of fire (0:4)
@@ -80,9 +83,6 @@ a wand of lightning (0:6)
 a wand of make invisible (0:5)
 a wand of slow monster (0:3)
 a wand of undead turning (0:7)
-
-Rings
-an uncursed ring of teleportation
 
 Tools
 a +0 pick-axe

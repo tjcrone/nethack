@@ -3,19 +3,19 @@
 # get items from clipboard function
 get_clipboard () {
   pbpaste | grep -A1000 ${1} | gtail -n +2 | \
-    grep -m 1 -B1000 'Amulets\|Weapons\|Armor\|Comestibles\|Scrolls\|Spellbooks\|Potions\|Wands\|Rings\|Tools\|Gems\|(end)' | \
+    grep -m 1 -B1000 'Amulets\|Weapons\|Armor\|Comestibles\|Scrolls\|Spellbooks\|Potions\|Rings\|Wands\|Tools\|Gems\|(end)' | \
     ghead -n -1 | awk -F' - ' '{print $2}'
 }
 
 # get items from items.txt
 get_items () {
   cat "items.txt" | grep -A1000 ${1} | gtail -n +2 | \
-    grep -m 1 -B1000 'Amulets\|Weapons\|Armor\|Comestibles\|Scrolls\|Spellbooks\|Potions\|Wands\|Rings\|Tools\|Gems\|(end)' | \
+    grep -m 1 -B1000 'Amulets\|Weapons\|Armor\|Comestibles\|Scrolls\|Spellbooks\|Potions\|Rings\|Wands\|Tools\|Gems\|(end)' | \
     ghead -n -2
 }
 
 # declare list of items
-declare -a StringArray=("Amulets" "Weapons" "Armor" "Comestibles" "Scrolls" "Spellbooks" "Potions" "Wands" "Rings" "Tools" "Gems")
+declare -a StringArray=("Amulets" "Weapons" "Armor" "Comestibles" "Scrolls" "Spellbooks" "Potions" "Rings" "Wands" "Tools" "Gems")
  
 # show items in clipboard
 for item in "${StringArray[@]}"; do
