@@ -43,6 +43,7 @@ an uncursed +0 dwarvish cloak
 an uncursed +0 fedora (being worn)
 an uncursed +0 leather armor
 an uncursed +0 leather jacket (being worn)
+an uncursed +0 orcish chain mail (being worn)
 an uncursed +0 orcish helm
 an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 robe
@@ -54,6 +55,7 @@ Comestibles
 2 uncursed food rations
 3 uncursed food rations
 4 uncursed food rations
+5 uncursed food rations
 a lichen corpse
 an uncursed carrot
 an uncursed cram ration
@@ -97,6 +99,7 @@ an uncursed potion of water
 an uncursed ring of teleportation
 
 Rings
+an uncursed ring of fire resistance (on left hand)
 an uncursed ring of see invisible (on right hand)
 an uncursed ring of teleportation
 
@@ -119,6 +122,7 @@ a blessed crystal ball (0:2)
 a cursed lock pick
 a magic marker (0:90)
 a tinning kit (0:34)
+a tinning kit (0:70)
 a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
