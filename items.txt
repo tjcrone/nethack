@@ -30,6 +30,7 @@ a +2 bullwhip (weapon in hand)
 a blessed +2 bullwhip
 a blessed rusty +1 partisan
 a corroded +0 axe
+a cursed +0 dwarvish mattock (weapon in hands)
 a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
@@ -45,6 +46,7 @@ a cursed -1 pair of fumble boots
 a cursed -1 pair of levitation boots
 a cursed -1 pair of low boots (being worn)
 a cursed -1 splint mail
+a cursed -2 orcish ring mail
 a pair of hiking boots
 an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
@@ -69,26 +71,31 @@ an uncursed greased +1 dwarvish mithril-coat (being worn)
 
 Comestibles
 2 uncursed food rations
+2 uncursed tins of goblin meat
 3 uncursed food rations
 4 uncursed food rations
 5 uncursed food rations
 a lichen corpse
+an uncursed apple
 an uncursed carrot
 an uncursed cram ration
 an uncursed food ration
 an uncursed fortune cookie
+an uncursed lichen corpse
 an uncursed newt corpse
 an uncursed pancake
 an uncursed partly eaten food ration
 an uncursed tin of goblin meat
+an uncursed tin of hobgoblin meat
 an uncursed tin of iguana meat
-an uncursed tin of newt meat
-2 uncursed tins of goblin meat
 an uncursed tin of jackal meat
 an uncursed tin of kobold meat
+an uncursed tin of large kobold meat
+an uncursed tin of newt meat
 
 Scrolls
 2 uncursed scrolls of enchant weapon
+a cursed scroll of light
 a scroll of stinking cloud
 an uncursed scroll of blank paper
 an uncursed scroll of create monster
@@ -132,6 +139,7 @@ an uncursed potion of water
 an uncursed ring of teleportation
 
 Rings
+a blessed +1 ring of increase damage
 an uncursed ring of conflict
 an uncursed ring of fire resistance (on left hand)
 an uncursed ring of regeneration (on left hand)
@@ -144,6 +152,7 @@ a wand of cold named ice (0:0)
 a wand of digging (0:-1)
 a wand of enlightenment (0:11)
 a wand of fire (0:4)
+a wand of light (0:10)
 a wand of light (0:12)
 a wand of lightning (0:3)
 a wand of lightning (0:6)
@@ -151,6 +160,7 @@ a wand of make invisible (0:5)
 a wand of sleep (0:3)
 a wand of slow monster (0:3)
 a wand of striking (0:0)
+a wand of undead turning (0:4)
 a wand of undead turning (0:7)
 
 Tools
@@ -164,6 +174,7 @@ a frost horn (0:7)
 a magic marker (0:90)
 a tinning kit (0:34)
 a tinning kit (0:50)
+a tinning kit (0:51)
 a tinning kit (0:70)
 a tinning kit (0:75)
 a tinning kit (0:78)
