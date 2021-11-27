@@ -19,6 +19,7 @@ a +0 elven dagger
 a +0 long sword (weapon in hand)
 a +0 morning star
 a +0 orcish dagger
+a +0 orcish dagger (alternate weapon; not wielded)
 a +0 orcish dagger (weapon in hand)
 a +0 orcish short sword
 a +0 scimitar (alternate weapon; not wielded)
@@ -28,6 +29,7 @@ a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a blessed +2 bullwhip
 a blessed rusty +1 partisan
+a corroded +0 axe
 a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
@@ -46,6 +48,7 @@ a cursed -1 splint mail
 a pair of hiking boots
 an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
+an uncursed +0 chain mail (being worn)
 an uncursed +0 dwarvish cloak
 an uncursed +0 fedora (being worn)
 an uncursed +0 helmet (being worn)
@@ -72,9 +75,11 @@ Comestibles
 a lichen corpse
 an uncursed carrot
 an uncursed cram ration
+an uncursed food ration
 an uncursed fortune cookie
 an uncursed newt corpse
 an uncursed pancake
+an uncursed partly eaten food ration
 an uncursed tin of goblin meat
 
 Scrolls
@@ -90,6 +95,7 @@ an uncursed scroll of remove curse
 an uncursed scroll of scare monster
 
 Spellbooks
+an uncursed spellbook of confuse monster
 an uncursed spellbook of dig
 an uncursed spellbook of healing
 an uncursed spellbook of levitation
@@ -102,6 +108,7 @@ Potions
 2 uncursed potions of water
 a blessed potion of extra healing
 a blessed potion of oil
+a blessed potion of see invisible
 a blessed potion of speed
 a brilliant blue potion
 a cursed potion of fruit juice
@@ -142,6 +149,7 @@ a +0 pick-axe
 a +0 pick-axe (alternate weapon; not wielded)
 a blessed crystal ball (0:2)
 a can of grease (0:16)
+a corroded +0 pick-axe
 a cursed lock pick
 a frost horn (0:7)
 a magic marker (0:90)
@@ -149,6 +157,7 @@ a tinning kit (0:34)
 a tinning kit (0:50)
 a tinning kit (0:70)
 a tinning kit (0:75)
+a tinning kit (0:78)
 a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
