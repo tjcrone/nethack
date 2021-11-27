@@ -19,7 +19,6 @@ blessed tin of green dragon meat
 
 You feel healthy! = poison resistance
 
-
 ## Graffiti
 
 They say that you can tame a dog by talking firmly to it.
@@ -29,3 +28,7 @@ They say that you can tame a dog by talking firmly to it.
 Expensive cameras have penetrating flash lights.
 They say that in lighter moments you could think of ways to pass a stone.
 
+## Scrolls
+
+You feel like someone is helping you = uncurse (maybe)
+You are being punished for your misbehavior = ??
