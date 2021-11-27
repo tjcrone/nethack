@@ -1,5 +1,17 @@
 # Notes
 
+## Attributes
+You were piously aligned.
+You were level-drain resistant.
+You had infravision.
+You were stealthy.
+You were warded.
+You were a werejackal.
+You were harmed by silver.
+You were fast.
+You are dead.
+
+
 ## Wands
 
 wand of cold: ice cubes come out
