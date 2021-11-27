@@ -41,6 +41,7 @@ for item in "${StringArray[@]}"; do
   { get_items ${item} & get_clipboard ${item}; } | sort | uniq >> ${tmpfile}
   echo "" >> ${tmpfile}
 done
+echo "(end)" >> ${tmpfile}
 
 # move tmpfile to items.txt
 mv ${tmpfile} "items.txt"

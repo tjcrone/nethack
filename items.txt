@@ -194,7 +194,9 @@ an uncursed tin opener
 an uncursed tin whistle
 
 Gems
-an uncursed touchstone
 an uncursed agate stone
 an uncursed aquamarine stone
 an uncursed obsidian stone
+an uncursed touchstone
+
+(end)
