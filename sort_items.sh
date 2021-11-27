@@ -4,7 +4,7 @@
 get_clipboard () {
   pbpaste | grep -A1000 ${1} | gtail -n +2 | \
     grep -m 1 -B1000 'Amulets\|Weapons\|Armor\|Comestibles\|Scrolls\|Spellbooks\|Potions\|Rings\|Wands\|Tools\|Gems\|(end)' | \
-    ghead -n -1 | awk -F' - ' '{print $2}'
+    ghead -n -1 | awk -F' - ' '{print $(NF)}'
 }
 
 # get items from items.txt
