@@ -9,6 +9,7 @@ Weapons
 5 blessed +1 darts
 7 +0 darts
 8 +0 crossbow bolts
+9 +0 arrows
 9 +0 ya
 a +0 arrow
 a +0 crossbow
@@ -27,10 +28,12 @@ a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a blessed +2 bullwhip
 a blessed rusty +1 partisan
+a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
 
 Armor
+a blessed +0 Hawaiian shirt
 a blessed +0 dwarvish cloak
 a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
@@ -55,6 +58,7 @@ an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 robe
 an uncursed +0 scale mail (being worn)
+an uncursed +0 studded leather armor
 an uncursed +1 dwarvish cloak (being worn)
 an uncursed +2 orcish helm (being worn)
 an uncursed +3 orcish helm
@@ -89,10 +93,10 @@ Spellbooks
 an uncursed spellbook of dig
 an uncursed spellbook of healing
 an uncursed spellbook of levitation
+an uncursed spellbook of magic missile
 an uncursed spellbook of sleep
 an uncursed spellbook of turn undead
 an uncursed spellbook of wizard lock
-an uncursed spellbook of magic missile
 
 Potions
 2 uncursed potions of water
