@@ -5,6 +5,7 @@ an uncursed amulet versus poison (being worn)
 Weapons
 21 +0 darts
 5 +0 crossbow bolts (in quiver pouch)
+5 +0 darts
 5 blessed +1 darts
 7 +0 darts
 8 +0 crossbow bolts
@@ -12,6 +13,7 @@ Weapons
 a +0 arrow
 a +0 crossbow
 a +0 crossbow (alternate weapon; not wielded)
+a +0 dwarvish mattock
 a +0 elven dagger
 a +0 long sword (weapon in hand)
 a +0 morning star
@@ -25,10 +27,12 @@ a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a blessed +2 bullwhip
 a blessed rusty +1 partisan
+the +0 Sunsword
 the +1 Sting
 
 Armor
 a blessed +0 dwarvish cloak
+a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
 a blessed +3 elven mithril-coat (being worn)
 a cursed -1 orcish helm
@@ -41,15 +45,20 @@ an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 dwarvish cloak
 an uncursed +0 fedora (being worn)
+an uncursed +0 helmet (being worn)
 an uncursed +0 leather armor
 an uncursed +0 leather jacket (being worn)
 an uncursed +0 orcish chain mail (being worn)
 an uncursed +0 orcish helm
+an uncursed +0 orcish shield (being worn)
+an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 robe
+an uncursed +0 scale mail (being worn)
 an uncursed +1 dwarvish cloak (being worn)
 an uncursed +2 orcish helm (being worn)
 an uncursed +3 orcish helm
+an uncursed greased +1 dwarvish mithril-coat (being worn)
 
 Comestibles
 2 uncursed food rations
@@ -68,6 +77,7 @@ Scrolls
 2 uncursed scrolls of enchant weapon
 a scroll of stinking cloud
 an uncursed scroll of create monster
+an uncursed scroll of destroy armor
 an uncursed scroll of earth
 an uncursed scroll of enchant armor
 an uncursed scroll of light
@@ -82,24 +92,31 @@ an uncursed spellbook of levitation
 an uncursed spellbook of sleep
 an uncursed spellbook of turn undead
 an uncursed spellbook of wizard lock
+an uncursed spellbook of magic missile
 
 Potions
 2 uncursed potions of water
 a blessed potion of extra healing
+a blessed potion of oil
 a blessed potion of speed
 a brilliant blue potion
 a cursed potion of fruit juice
 a potion of unholy water
 an uncursed potion of confusion
+an uncursed potion of fruit juice
 an uncursed potion of gain ability
 an uncursed potion of gain energy
 an uncursed potion of hallucination
+an uncursed potion of levitation
+an uncursed potion of monster detection
 an uncursed potion of paralysis
 an uncursed potion of water
 an uncursed ring of teleportation
 
 Rings
+an uncursed ring of conflict
 an uncursed ring of fire resistance (on left hand)
+an uncursed ring of regeneration (on left hand)
 an uncursed ring of see invisible (on right hand)
 an uncursed ring of teleportation
 
@@ -113,16 +130,21 @@ a wand of lightning (0:6)
 a wand of make invisible (0:5)
 a wand of sleep (0:3)
 a wand of slow monster (0:3)
+a wand of striking (0:0)
 a wand of undead turning (0:7)
 
 Tools
 a +0 pick-axe
 a +0 pick-axe (alternate weapon; not wielded)
 a blessed crystal ball (0:2)
+a can of grease (0:16)
 a cursed lock pick
+a frost horn (0:7)
 a magic marker (0:90)
 a tinning kit (0:34)
+a tinning kit (0:50)
 a tinning kit (0:70)
+a tinning kit (0:75)
 a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
@@ -133,6 +155,7 @@ an uncursed lock pick
 an uncursed oil lamp
 an uncursed sack containing 4 items
 an uncursed sack containing 5 items
+an uncursed sack containing 6 items
 an uncursed skeleton key
 an uncursed tin opener
 an uncursed tin whistle
