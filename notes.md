@@ -18,10 +18,12 @@ blessed tin of green dragon meat
 ## Important Messages
 
 You feel healthy! = poison resistance
+You feel more confident in your fighting skills. = you can enhance a skill
 
 ## Graffiti
 
 They say that you can tame a dog by talking firmly to it.
+They say that you should ?a?e your dog Spuds to ?ave a cocl pet
 
 ## Oracle
 
