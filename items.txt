@@ -1,5 +1,6 @@
 Amulets
 a spherical amulet
+an uncursed amulet of reflection
 an uncursed amulet versus poison (being worn)
 
 Weapons
@@ -15,6 +16,7 @@ a +0 arrow
 a +0 crossbow
 a +0 crossbow (alternate weapon; not wielded)
 a +0 dwarvish mattock
+a +0 elven bow
 a +0 elven dagger
 a +0 long sword (weapon in hand)
 a +0 morning star
@@ -27,7 +29,9 @@ a +0 sling
 a +1 arrow
 a +2 bullwhip
 a +2 bullwhip (weapon in hand)
+a blessed +0 orcish dagger (alternate weapon; not wielded)
 a blessed +2 bullwhip
+a blessed +2 bullwhip (weapon in hand)
 a blessed rusty +1 partisan
 a corroded +0 axe
 a cursed +0 dwarvish mattock (weapon in hands)
@@ -46,6 +50,7 @@ a cursed -1 pair of fumble boots
 a cursed -1 pair of levitation boots
 a cursed -1 pair of low boots (being worn)
 a cursed -1 splint mail
+a cursed -2 helm of opposite alignment
 a cursed -2 orcish ring mail
 a pair of hiking boots
 an iron skull cap
@@ -53,11 +58,14 @@ an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 chain mail (being worn)
 an uncursed +0 dwarvish cloak
 an uncursed +0 fedora (being worn)
+an uncursed +0 helmet
 an uncursed +0 helmet (being worn)
 an uncursed +0 leather armor
 an uncursed +0 leather jacket (being worn)
+an uncursed +0 oilskin cloak (being worn)
 an uncursed +0 orcish chain mail (being worn)
 an uncursed +0 orcish helm
+an uncursed +0 orcish helm (being worn)
 an uncursed +0 orcish shield (being worn)
 an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
@@ -71,7 +79,9 @@ an uncursed greased +1 dwarvish mithril-coat (being worn)
 
 Comestibles
 2 uncursed food rations
+2 uncursed lichen corpses
 2 uncursed tins of goblin meat
+2 uncursed tins of jackal meat
 3 uncursed food rations
 4 uncursed food rations
 5 uncursed food rations
@@ -81,10 +91,14 @@ an uncursed carrot
 an uncursed cram ration
 an uncursed food ration
 an uncursed fortune cookie
+an uncursed kiwi
 an uncursed lichen corpse
 an uncursed newt corpse
+an uncursed orange
 an uncursed pancake
 an uncursed partly eaten food ration
+an uncursed tin of fox meat
+an uncursed tin of gecko meat
 an uncursed tin of goblin meat
 an uncursed tin of hobgoblin meat
 an uncursed tin of iguana meat
@@ -92,9 +106,12 @@ an uncursed tin of jackal meat
 an uncursed tin of kobold meat
 an uncursed tin of large kobold meat
 an uncursed tin of newt meat
+an uncursed tripe ration
 
 Scrolls
 2 uncursed scrolls of enchant weapon
+a cursed scroll of amnesia
+a cursed scroll of enchant armor
 a cursed scroll of light
 a scroll of stinking cloud
 an uncursed scroll of blank paper
@@ -109,6 +126,7 @@ an uncursed scroll of scare monster
 
 Spellbooks
 an uncursed spellbook of blank paper
+an uncursed spellbook of clairvoyance
 an uncursed spellbook of confuse monster
 an uncursed spellbook of dig
 an uncursed spellbook of healing
@@ -134,6 +152,7 @@ an uncursed potion of gain energy
 an uncursed potion of hallucination
 an uncursed potion of levitation
 an uncursed potion of monster detection
+an uncursed potion of oil
 an uncursed potion of paralysis
 an uncursed potion of water
 an uncursed ring of teleportation
@@ -141,10 +160,13 @@ an uncursed ring of teleportation
 Rings
 a blessed +1 ring of increase damage
 an uncursed ring of conflict
+an uncursed ring of fire resistance
 an uncursed ring of fire resistance (on left hand)
+an uncursed ring of levitation
 an uncursed ring of regeneration (on left hand)
 an uncursed ring of see invisible (on right hand)
 an uncursed ring of teleportation
+an uncursed ring of warning (on right hand)
 
 Wands
 a wand of cancellation (0:3)
@@ -156,6 +178,7 @@ a wand of light (0:10)
 a wand of light (0:12)
 a wand of lightning (0:3)
 a wand of lightning (0:6)
+a wand of magic missile (0:5)
 a wand of make invisible (0:5)
 a wand of sleep (0:3)
 a wand of slow monster (0:3)
@@ -166,7 +189,9 @@ a wand of undead turning (0:7)
 Tools
 a +0 pick-axe
 a +0 pick-axe (alternate weapon; not wielded)
+a +0 pick-axe (weapon in hand)
 a blessed crystal ball (0:2)
+a blessed crystal ball (0:5)
 a can of grease (0:16)
 a corroded +0 pick-axe
 a cursed lock pick
@@ -177,11 +202,14 @@ a tinning kit (0:50)
 a tinning kit (0:51)
 a tinning kit (0:70)
 a tinning kit (0:75)
+a tinning kit (0:76)
+a tinning kit (0:77)
 a tinning kit (0:78)
 a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
 an empty uncursed sack
+an expensive camera (0:96)
 an uncursed bell
 an uncursed blindfold
 an uncursed lock pick
@@ -194,9 +222,11 @@ an uncursed tin opener
 an uncursed tin whistle
 
 Gems
+2 uncursed jet stones
 an uncursed agate stone
 an uncursed aquamarine stone
 an uncursed obsidian stone
 an uncursed touchstone
+an uncursed worthless piece of green glass
 
 (end)
