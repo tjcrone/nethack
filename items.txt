@@ -13,6 +13,7 @@ Weapons
 8 +0 darts
 9 +0 arrows
 9 +0 ya
+9 blessed +1 crossbow bolts
 a +0 arrow
 a +0 crossbow
 a +0 crossbow (alternate weapon; not wielded)
@@ -49,6 +50,7 @@ a blessed +0 Hawaiian shirt
 a blessed +0 dwarvish cloak
 a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
+a blessed +1 chain mail
 a blessed +2 fedora (being worn)
 a blessed +3 elven mithril-coat (being worn)
 a cursed -1 chain mail (being worn)
@@ -141,6 +143,8 @@ an uncursed scroll of create monster
 an uncursed scroll of destroy armor
 an uncursed scroll of earth
 an uncursed scroll of enchant armor
+an uncursed scroll of food detection
+an uncursed scroll of identify
 an uncursed scroll of light
 an uncursed scroll of magic mapping
 an uncursed scroll of punishment
@@ -219,6 +223,7 @@ a wand of lightning (0:6)
 a wand of magic missile (0:5)
 a wand of make invisible (0:5)
 a wand of probing (0:4)
+a wand of secret door detection named nothing (0:14)
 a wand of sleep (0:3)
 a wand of sleep (0:4)
 a wand of slow monster (0:3)
@@ -240,6 +245,7 @@ a frost horn (0:7)
 a magic marker (0:90)
 a magic marker (0:99)
 a tinning kit (0:34)
+a tinning kit (0:38)
 a tinning kit (0:50)
 a tinning kit (0:51)
 a tinning kit (0:52)
