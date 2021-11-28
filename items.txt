@@ -15,6 +15,7 @@ Weapons
 a +0 arrow
 a +0 crossbow
 a +0 crossbow (alternate weapon; not wielded)
+a +0 dagger
 a +0 dwarvish mattock
 a +0 elven bow
 a +0 elven dagger
@@ -72,6 +73,7 @@ an uncursed +0 orcish shield (being worn)
 an uncursed +0 pair of elven boots
 an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
+an uncursed +0 ring mail
 an uncursed +0 robe
 an uncursed +0 scale mail (being worn)
 an uncursed +0 studded leather armor
@@ -82,6 +84,7 @@ an uncursed greased +1 dwarvish mithril-coat (being worn)
 
 Comestibles
 2 uncursed food rations
+2 uncursed fortune cookies
 2 uncursed lichen corpses
 2 uncursed tins of goblin meat
 2 uncursed tins of jackal meat
@@ -102,6 +105,7 @@ an uncursed newt corpse
 an uncursed orange
 an uncursed pancake
 an uncursed partly eaten food ration
+an uncursed tin of coyote meat
 an uncursed tin of fox meat
 an uncursed tin of gecko meat
 an uncursed tin of goblin meat
@@ -117,6 +121,7 @@ an uncursed tripe ration
 Scrolls
 2 uncursed scrolls of blank paper
 2 uncursed scrolls of enchant weapon
+a blessed scroll of food detection
 a cursed scroll of amnesia
 a cursed scroll of enchant armor
 a cursed scroll of light
@@ -128,6 +133,7 @@ an uncursed scroll of earth
 an uncursed scroll of enchant armor
 an uncursed scroll of light
 an uncursed scroll of magic mapping
+an uncursed scroll of punishment
 an uncursed scroll of remove curse
 an uncursed scroll of scare monster
 
@@ -156,7 +162,9 @@ a brilliant blue potion
 a cursed potion of extra healing
 a cursed potion of fruit juice
 a potion of unholy water
+an uncursed potion of blindness
 an uncursed potion of confusion
+an uncursed potion of enlightenment
 an uncursed potion of fruit juice
 an uncursed potion of gain ability
 an uncursed potion of gain energy
@@ -194,7 +202,9 @@ a wand of lightning (0:3)
 a wand of lightning (0:6)
 a wand of magic missile (0:5)
 a wand of make invisible (0:5)
+a wand of probing (0:4)
 a wand of sleep (0:3)
+a wand of sleep (0:4)
 a wand of slow monster (0:3)
 a wand of striking (0:0)
 a wand of striking (0:7)
@@ -228,6 +238,7 @@ an empty uncursed sack
 an expensive camera (0:96)
 an uncursed bell
 an uncursed blindfold
+an uncursed leash
 an uncursed lock pick
 an uncursed magic whistle
 an uncursed oil lamp
@@ -243,6 +254,7 @@ Gems
 2 uncursed worthless pieces of orange glass
 an uncursed agate stone
 an uncursed aquamarine stone
+an uncursed jet stone
 an uncursed obsidian stone
 an uncursed touchstone
 an uncursed worthless piece of green glass
