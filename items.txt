@@ -19,12 +19,14 @@ a +0 dagger
 a +0 dwarvish mattock
 a +0 elven bow
 a +0 elven dagger
+a +0 long sword
 a +0 long sword (weapon in hand)
 a +0 morning star
 a +0 orcish dagger
 a +0 orcish dagger (alternate weapon; not wielded)
 a +0 orcish dagger (weapon in hand)
 a +0 orcish short sword
+a +0 quarterstaff
 a +0 scimitar (alternate weapon; not wielded)
 a +0 sling
 a +1 arrow
@@ -76,6 +78,7 @@ an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 ring mail
 an uncursed +0 robe
 an uncursed +0 scale mail (being worn)
+an uncursed +0 splint mail
 an uncursed +0 studded leather armor
 an uncursed +1 dwarvish cloak (being worn)
 an uncursed +2 orcish helm (being worn)
@@ -94,6 +97,7 @@ Comestibles
 5 uncursed food rations
 a lichen corpse
 an uncursed apple
+an uncursed candy bar
 an uncursed carrot
 an uncursed cram ration
 an uncursed cream pie
@@ -146,6 +150,7 @@ an uncursed spellbook of detect monsters
 an uncursed spellbook of dig
 an uncursed spellbook of healing
 an uncursed spellbook of jumping
+an uncursed spellbook of knock
 an uncursed spellbook of levitation
 an uncursed spellbook of magic missile
 an uncursed spellbook of sleep
