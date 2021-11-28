@@ -10,6 +10,7 @@ Weapons
 5 blessed +1 darts
 7 +0 darts
 8 +0 crossbow bolts
+8 +0 darts
 9 +0 arrows
 9 +0 ya
 a +0 arrow
@@ -38,6 +39,7 @@ a blessed +2 bullwhip (weapon in hand)
 a blessed rusty +1 partisan
 a corroded +0 axe
 a cursed +0 dwarvish mattock (weapon in hands)
+a cursed +0 two-handed sword
 a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
@@ -47,6 +49,7 @@ a blessed +0 Hawaiian shirt
 a blessed +0 dwarvish cloak
 a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
+a blessed +2 fedora (being worn)
 a blessed +3 elven mithril-coat (being worn)
 a cursed -1 chain mail (being worn)
 a cursed -1 orcish helm
@@ -93,6 +96,7 @@ Comestibles
 2 uncursed tins of jackal meat
 2 uncursed tripe rations
 3 uncursed food rations
+3 uncursed tins of jackal meat
 4 uncursed food rations
 5 uncursed food rations
 a lichen corpse
@@ -125,6 +129,8 @@ an uncursed tripe ration
 Scrolls
 2 uncursed scrolls of blank paper
 2 uncursed scrolls of enchant weapon
+a blessed scroll of confuse monster
+a blessed scroll of destroy armor
 a blessed scroll of food detection
 a cursed scroll of amnesia
 a cursed scroll of enchant armor
@@ -160,12 +166,14 @@ an uncursed spellbook of wizard lock
 Potions
 2 uncursed potions of water
 a blessed potion of extra healing
+a blessed potion of levitation
 a blessed potion of oil
 a blessed potion of see invisible
 a blessed potion of speed
 a brilliant blue potion
 a cursed potion of extra healing
 a cursed potion of fruit juice
+a cursed potion of sickness
 a potion of unholy water
 an uncursed potion of blindness
 an uncursed potion of confusion
@@ -179,12 +187,15 @@ an uncursed potion of monster detection
 an uncursed potion of oil
 an uncursed potion of paralysis
 an uncursed potion of restore ability
+an uncursed potion of sickness
 an uncursed potion of water
 an uncursed ring of teleportation
 
 Rings
 a blessed +1 ring of increase damage
 a cursed ring of hunger
+an uncursed +1 ring of gain constitution
+an uncursed ring of cold resistance
 an uncursed ring of conflict
 an uncursed ring of fire resistance
 an uncursed ring of fire resistance (on left hand)
@@ -227,10 +238,12 @@ a corroded +0 pick-axe
 a cursed lock pick
 a frost horn (0:7)
 a magic marker (0:90)
+a magic marker (0:99)
 a tinning kit (0:34)
 a tinning kit (0:50)
 a tinning kit (0:51)
 a tinning kit (0:52)
+a tinning kit (0:63)
 a tinning kit (0:70)
 a tinning kit (0:75)
 a tinning kit (0:76)
@@ -239,6 +252,7 @@ a tinning kit (0:78)
 a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
+a tinning kit (0:92)
 an empty uncursed sack
 an expensive camera (0:96)
 an uncursed bell
@@ -263,5 +277,6 @@ an uncursed jet stone
 an uncursed obsidian stone
 an uncursed touchstone
 an uncursed worthless piece of green glass
+an uncursed worthless piece of white glass
 
 (end)
