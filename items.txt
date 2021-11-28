@@ -45,6 +45,7 @@ a blessed +0 dwarvish cloak
 a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
 a blessed +3 elven mithril-coat (being worn)
+a cursed -1 chain mail (being worn)
 a cursed -1 orcish helm
 a cursed -1 pair of fumble boots
 a cursed -1 pair of levitation boots
@@ -57,6 +58,7 @@ an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 chain mail (being worn)
 an uncursed +0 dwarvish cloak
+an uncursed +0 fedora
 an uncursed +0 fedora (being worn)
 an uncursed +0 helmet
 an uncursed +0 helmet (being worn)
@@ -82,6 +84,7 @@ Comestibles
 2 uncursed lichen corpses
 2 uncursed tins of goblin meat
 2 uncursed tins of jackal meat
+2 uncursed tripe rations
 3 uncursed food rations
 4 uncursed food rations
 5 uncursed food rations
@@ -89,6 +92,7 @@ a lichen corpse
 an uncursed apple
 an uncursed carrot
 an uncursed cram ration
+an uncursed cream pie
 an uncursed food ration
 an uncursed fortune cookie
 an uncursed kiwi
@@ -106,9 +110,11 @@ an uncursed tin of jackal meat
 an uncursed tin of kobold meat
 an uncursed tin of large kobold meat
 an uncursed tin of newt meat
+an uncursed tin of spinach
 an uncursed tripe ration
 
 Scrolls
+2 uncursed scrolls of blank paper
 2 uncursed scrolls of enchant weapon
 a cursed scroll of amnesia
 a cursed scroll of enchant armor
@@ -130,6 +136,7 @@ an uncursed spellbook of clairvoyance
 an uncursed spellbook of confuse monster
 an uncursed spellbook of dig
 an uncursed spellbook of healing
+an uncursed spellbook of jumping
 an uncursed spellbook of levitation
 an uncursed spellbook of magic missile
 an uncursed spellbook of sleep
@@ -143,6 +150,7 @@ a blessed potion of oil
 a blessed potion of see invisible
 a blessed potion of speed
 a brilliant blue potion
+a cursed potion of extra healing
 a cursed potion of fruit juice
 a potion of unholy water
 an uncursed potion of confusion
@@ -154,6 +162,7 @@ an uncursed potion of levitation
 an uncursed potion of monster detection
 an uncursed potion of oil
 an uncursed potion of paralysis
+an uncursed potion of restore ability
 an uncursed potion of water
 an uncursed ring of teleportation
 
@@ -200,6 +209,7 @@ a magic marker (0:90)
 a tinning kit (0:34)
 a tinning kit (0:50)
 a tinning kit (0:51)
+a tinning kit (0:52)
 a tinning kit (0:70)
 a tinning kit (0:75)
 a tinning kit (0:76)
@@ -213,6 +223,7 @@ an expensive camera (0:96)
 an uncursed bell
 an uncursed blindfold
 an uncursed lock pick
+an uncursed magic whistle
 an uncursed oil lamp
 an uncursed sack containing 4 items
 an uncursed sack containing 5 items
@@ -223,6 +234,7 @@ an uncursed tin whistle
 
 Gems
 2 uncursed jet stones
+2 uncursed worthless pieces of orange glass
 an uncursed agate stone
 an uncursed aquamarine stone
 an uncursed obsidian stone
