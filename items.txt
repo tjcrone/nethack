@@ -22,6 +22,7 @@ a +0 arrow
 a +0 crossbow
 a +0 crossbow (alternate weapon; not wielded)
 a +0 dagger
+a +0 dart (at the ready)
 a +0 dwarvish mattock
 a +0 elven bow
 a +0 elven broadsword
@@ -40,6 +41,7 @@ a +1 arrow
 a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a blessed +0 orcish dagger (alternate weapon; not wielded)
+a blessed +1 flail (wielded in other hand)
 a blessed +2 bullwhip
 a blessed +2 bullwhip (weapon in hand)
 a blessed rusty +1 partisan
@@ -79,6 +81,7 @@ an uncursed +0 fedora (being worn)
 an uncursed +0 helmet
 an uncursed +0 helmet (being worn)
 an uncursed +0 leather armor
+an uncursed +0 leather jacket
 an uncursed +0 leather jacket (being worn)
 an uncursed +0 oilskin cloak (being worn)
 an uncursed +0 orcish chain mail (being worn)
@@ -90,6 +93,7 @@ an uncursed +0 pair of jumping boots (being worn)
 an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 ring mail
+an uncursed +0 ring mail (being worn)
 an uncursed +0 robe
 an uncursed +0 scale mail (being worn)
 an uncursed +0 splint mail
@@ -108,6 +112,7 @@ Comestibles
 2 uncursed tins of jackal meat
 2 uncursed tripe rations
 3 uncursed food rations
+3 uncursed lichen corpses
 3 uncursed tins of jackal meat
 3 uncursed tins of newt meat
 4 uncursed food rations
@@ -215,6 +220,7 @@ an uncursed ring of cold resistance
 an uncursed ring of conflict
 an uncursed ring of fire resistance
 an uncursed ring of fire resistance (on left hand)
+an uncursed ring of fire resistance (on right hand)
 an uncursed ring of levitation
 an uncursed ring of regeneration (on left hand)
 an uncursed ring of see invisible (on right hand)
@@ -259,6 +265,7 @@ a frost horn (0:7)
 a magic marker (0:90)
 a magic marker (0:99)
 a tinning kit (0:30)
+a tinning kit (0:33)
 a tinning kit (0:34)
 a tinning kit (0:38)
 a tinning kit (0:50)
