@@ -4,6 +4,7 @@ an uncursed amulet of reflection
 an uncursed amulet versus poison (being worn)
 
 Weapons
+14 +0 darts
 21 +0 darts
 5 +0 crossbow bolts (in quiver pouch)
 5 +0 darts
@@ -70,6 +71,7 @@ a cursed -2 orcish ring mail
 a pair of hiking boots
 an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
+an uncursed +0 chain mail
 an uncursed +0 chain mail (being worn)
 an uncursed +0 dwarvish cloak
 an uncursed +0 fedora
@@ -84,6 +86,7 @@ an uncursed +0 orcish helm
 an uncursed +0 orcish helm (being worn)
 an uncursed +0 orcish shield (being worn)
 an uncursed +0 pair of elven boots
+an uncursed +0 pair of jumping boots (being worn)
 an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
 an uncursed +0 ring mail
@@ -95,6 +98,7 @@ an uncursed +1 dwarvish cloak (being worn)
 an uncursed +2 orcish helm (being worn)
 an uncursed +3 orcish helm
 an uncursed greased +1 dwarvish mithril-coat (being worn)
+an uncursed rusty +1 orcish helm (being worn)
 
 Comestibles
 2 uncursed food rations
@@ -214,6 +218,7 @@ an uncursed ring of fire resistance (on left hand)
 an uncursed ring of levitation
 an uncursed ring of regeneration (on left hand)
 an uncursed ring of see invisible (on right hand)
+an uncursed ring of stealth
 an uncursed ring of stealth (on left hand)
 an uncursed ring of teleportation
 an uncursed ring of warning (on right hand)
@@ -253,11 +258,13 @@ a cursed lock pick
 a frost horn (0:7)
 a magic marker (0:90)
 a magic marker (0:99)
+a tinning kit (0:30)
 a tinning kit (0:34)
 a tinning kit (0:38)
 a tinning kit (0:50)
 a tinning kit (0:51)
 a tinning kit (0:52)
+a tinning kit (0:58)
 a tinning kit (0:63)
 a tinning kit (0:70)
 a tinning kit (0:75)
@@ -268,6 +275,7 @@ a tinning kit (0:79)
 a tinning kit (0:86)
 a tinning kit (0:88)
 a tinning kit (0:92)
+an empty uncursed broken chest
 an empty uncursed sack
 an expensive camera (0:96)
 an expensive camera (0:99)
