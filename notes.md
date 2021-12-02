@@ -17,8 +17,9 @@ You are dead.
 ## Wands
 
 ice cubes = wand of cold
-bugs slow = wand of slow monster
-noting = wand of cancellation?? or wand of undead turning??
+The bugs on the floor stop moving! = wand of death (death ray)
+nothing = wand of cancellation or wand of undead turning??
+The wand unsuccessfully fights your attempt to write! = wand of striking
 
 ## Wand of Wishing
 
@@ -34,17 +35,27 @@ You feel healthy! = poison resistance
 You feel more confident in your fighting skills. = you can enhance a skill
 You are in full health. = ??
 You hear water falling on coins. = vault on level
+You feel like someone is helping you. = scroll of remove curse
+You are suddenly very hot! = ?? infravision? sensing the presence of monsters?
+
 
 ## Graffiti
 
 They say that you can tame a dog by talking firmly to it
 They say that you should ?a?e your dog Spuds to ?ave a cocl pet
 The best equipment for your work is, of co?rse, ??c mcst cxpensivc
+Need ? l?g?t?  Co?e vis?t the Minetcwn bran?h of Izcnak's Lig?ti?g S?ore!
+ad ae?a??u?
 
 ## Oracle
 
 Expensive cameras have penetrating flash lights.
 They say that in lighter moments you could think of ways to pass a stone.
+
+## Fortune Cookies
+
+A dead cockatrice is just a dead lizard.
+Waltz, dumb nymph, for quick jigs vex.
 
 ## Scrolls
 
@@ -55,6 +66,23 @@ You are being punished for your misbehavior = ??
 
  -[ ] color cursed food red
  -[ ] don't autopickup cursed items
+ -[ ] fix disclose options
+
+
+
+## Helpful Commands
+ctrl = "control" key on Mac
+
+ctrl-p   show last message
+ctrl-x   show attributes
+ +       show known spells
+ #e      enhance skill
+
+
+
+
+
+
 
 
 
