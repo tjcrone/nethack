@@ -6,6 +6,7 @@ an uncursed amulet versus poison (being worn)
 
 Weapons
 14 +0 darts
+2 +0 daggers
 21 +0 darts
 5 +0 crossbow bolts (in quiver pouch)
 5 +0 darts
@@ -40,6 +41,7 @@ a +0 scimitar
 a +0 scimitar (alternate weapon; not wielded)
 a +0 scimitar (weapon in hand)
 a +0 sling
+a +0 two-handed sword
 a +1 arrow
 a +2 bullwhip
 a +2 bullwhip (alternate weapon; not wielded)
@@ -83,6 +85,7 @@ an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 banded mail (being worn)
 an uncursed +0 chain mail
 an uncursed +0 chain mail (being worn)
+an uncursed +0 cloak of invisibility
 an uncursed +0 dwarvish cloak
 an uncursed +0 dwarvish iron helm (being worn)
 an uncursed +0 fedora
@@ -110,6 +113,7 @@ an uncursed +0 splint mail
 an uncursed +0 studded leather armor
 an uncursed +1 dwarvish cloak (being worn)
 an uncursed +1 leather jacket
+an uncursed +1 leather jacket (being worn)
 an uncursed +2 orcish helm (being worn)
 an uncursed +3 orcish helm
 an uncursed +4 scale mail (being worn)
@@ -309,6 +313,7 @@ a tinning kit (0:30)
 a tinning kit (0:33)
 a tinning kit (0:34)
 a tinning kit (0:38)
+a tinning kit (0:39)
 a tinning kit (0:48)
 a tinning kit (0:49)
 a tinning kit (0:50)
