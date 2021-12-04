@@ -2,6 +2,8 @@
 
 ## Attributes
 You were piously aligned.
+You were cold resistant.
+You were shock resistant.
 You were level-drain resistant.
 You had infravision.
 You were stealthy.
@@ -16,7 +18,7 @@ You are dead.
 
 ## Wands
 
-ice cubes = wand of cold
+A few ice cubes drop from the wand. = wand of cold
 The bugs on the floor stop moving! = wand of death (death ray)
 nothing = wand of cancellation or wand of undead turning??
 The wand unsuccessfully fights your attempt to write! = wand of striking
@@ -56,6 +58,7 @@ They say that in lighter moments you could think of ways to pass a stone.
 
 A dead cockatrice is just a dead lizard.
 Waltz, dumb nymph, for quick jigs vex.
+They say that a lucky amulet will block poisoned arrows.
 
 ## Scrolls
 
@@ -77,12 +80,5 @@ ctrl-p   show last message
 ctrl-x   show attributes
  +       show known spells
  #e      enhance skill
-
-
-
-
-
-
-
 
 
