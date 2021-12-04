@@ -5,6 +5,7 @@ an uncursed amulet of unchanging
 an uncursed amulet versus poison (being worn)
 
 Weapons
+13 +0 darts
 14 +0 darts
 2 +0 daggers
 21 +0 darts
@@ -31,6 +32,7 @@ a +0 elven broadsword
 a +0 elven dagger
 a +0 long sword
 a +0 long sword (weapon in hand)
+a +0 mace
 a +0 morning star
 a +0 orcish dagger
 a +0 orcish dagger (alternate weapon; not wielded)
@@ -51,11 +53,13 @@ a blessed +0 orcish dagger (alternate weapon; not wielded)
 a blessed +1 flail (wielded in other hand)
 a blessed +2 bullwhip
 a blessed +2 bullwhip (weapon in hand)
+a blessed +2 orcish dagger
 a blessed rusty +1 partisan
 a corroded +0 axe
 a cursed +0 dwarvish mattock (weapon in hands)
 a cursed +0 two-handed sword
 a cursed -1 arrow
+a cursed -1 orcish dagger
 a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
@@ -69,6 +73,7 @@ a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
 a blessed +0 pair of low boots (being worn)
 a blessed +1 chain mail
+a blessed +1 pair of low boots (being worn)
 a blessed +2 fedora (being worn)
 a blessed +3 elven mithril-coat (being worn)
 a cursed -1 chain mail (being worn)
@@ -79,15 +84,19 @@ a cursed -1 pair of low boots (being worn)
 a cursed -1 splint mail
 a cursed -2 helm of opposite alignment
 a cursed -2 orcish ring mail
+a cursed -3 pair of fumble boots
 a pair of hiking boots
 an iron skull cap
 an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 banded mail (being worn)
+an uncursed +0 bronze plate mail (being worn)
 an uncursed +0 chain mail
 an uncursed +0 chain mail (being worn)
 an uncursed +0 cloak of invisibility
 an uncursed +0 dwarvish cloak
+an uncursed +0 dwarvish cloak (being worn)
 an uncursed +0 dwarvish iron helm (being worn)
+an uncursed +0 dwarvish mithril-coat
 an uncursed +0 fedora
 an uncursed +0 fedora (being worn)
 an uncursed +0 helmet
@@ -123,6 +132,7 @@ an uncursed greased +1 dwarvish mithril-coat (being worn)
 an uncursed rusty +1 orcish helm (being worn)
 
 Comestibles
+2 cursed food rations
 2 uncursed food rations
 2 uncursed fortune cookies
 2 uncursed lichen corpses
@@ -144,19 +154,24 @@ an uncursed candy bar
 an uncursed carrot
 an uncursed cram ration
 an uncursed cream pie
+an uncursed egg
 an uncursed food ration
 an uncursed fortune cookie
+an uncursed goblin corpse
 an uncursed kiwi
 an uncursed lichen corpse
 an uncursed newt corpse
 an uncursed orange
 an uncursed pancake
 an uncursed partly eaten food ration
+an uncursed partly eaten lichen corpse
+an uncursed sprig of wolfsbane
 an uncursed tin of cave spider meat
 an uncursed tin of coyote meat
 an uncursed tin of fox meat
 an uncursed tin of gecko meat
 an uncursed tin of giant ant meat
+an uncursed tin of giant rat meat
 an uncursed tin of goblin meat
 an uncursed tin of hobgoblin meat
 an uncursed tin of iguana meat
@@ -165,6 +180,7 @@ an uncursed tin of kobold lord meat
 an uncursed tin of kobold meat
 an uncursed tin of large kobold meat
 an uncursed tin of newt meat
+an uncursed tin of sewer rat meat
 an uncursed tin of spinach
 an uncursed tripe ration
 
@@ -175,6 +191,7 @@ a blessed scroll of confuse monster
 a blessed scroll of destroy armor
 a blessed scroll of food detection
 a cursed scroll of amnesia
+a cursed scroll of blank paper
 a cursed scroll of enchant armor
 a cursed scroll of light
 a cursed scroll of remove curse
@@ -198,6 +215,7 @@ an uncursed scroll of teleportation
 Spellbooks
 a blessed spellbook of identify
 an uncursed spellbook of blank paper
+an uncursed spellbook of charm monster
 an uncursed spellbook of clairvoyance
 an uncursed spellbook of confuse monster
 an uncursed spellbook of cure sickness
@@ -242,15 +260,20 @@ an uncursed potion of paralysis
 an uncursed potion of restore ability
 an uncursed potion of see invisible
 an uncursed potion of sickness
+an uncursed potion of sleeping
+an uncursed potion of speed
 an uncursed potion of water
 an uncursed ring of teleportation
 
 Rings
 a blessed +1 ring of increase damage
+a cursed -1 ring of gain constitution (on left hand)
 a cursed ring of hunger
+a cursed ring of teleportation (on right hand)
 an uncursed +1 ring of gain constitution
 an uncursed -2 ring of gain constitution
 an uncursed ring of cold resistance
+an uncursed ring of cold resistance (on right hand)
 an uncursed ring of conflict
 an uncursed ring of fire resistance
 an uncursed ring of fire resistance (on left hand)
@@ -258,9 +281,11 @@ an uncursed ring of fire resistance (on right hand)
 an uncursed ring of free action
 an uncursed ring of levitation
 an uncursed ring of protection from shape changers
+an uncursed ring of regeneration
 an uncursed ring of regeneration (on left hand)
 an uncursed ring of see invisible (on right hand)
 an uncursed ring of shock resistance
+an uncursed ring of shock resistance (on left hand)
 an uncursed ring of slow digestion
 an uncursed ring of stealth
 an uncursed ring of stealth (on left hand)
@@ -304,6 +329,7 @@ a can of grease (0:16)
 a corroded +0 pick-axe
 a cursed lock pick
 a cursed skeleton key
+a fire horn (0:5)
 a frost horn (0:7)
 a magic marker (0:79)
 a magic marker (0:90)
@@ -323,11 +349,13 @@ a tinning kit (0:58)
 a tinning kit (0:63)
 a tinning kit (0:66)
 a tinning kit (0:70)
+a tinning kit (0:72)
 a tinning kit (0:75)
 a tinning kit (0:76)
 a tinning kit (0:77)
 a tinning kit (0:78)
 a tinning kit (0:79)
+a tinning kit (0:81)
 a tinning kit (0:86)
 a tinning kit (0:88)
 a tinning kit (0:92)
@@ -349,6 +377,7 @@ an uncursed sack containing 6 items
 an uncursed skeleton key
 an uncursed tin opener
 an uncursed tin whistle
+an uncursed towel
 
 Gems
 2 uncursed jet stones
