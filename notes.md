@@ -19,8 +19,8 @@ You are dead.
 ## Wands
 
 A few ice cubes drop from the wand. = wand of cold
-The bugs on the floor stop moving! = wand of death (death ray)
-nothing = wand of cancellation or wand of undead turning??
+The bugs on the floor stop moving! = sleep or death ray or
+nothing = cancellation or undead turning
 The wand unsuccessfully fights your attempt to write! = wand of striking
 
 ## Wand of Wishing
@@ -35,11 +35,14 @@ blessed tin of green dragon meat
 
 You feel healthy! = poison resistance
 You feel more confident in your fighting skills. = you can enhance a skill
-You are in full health. = ??
+You are in full health. = health points maximal
 You hear water falling on coins. = vault on level
 You feel like someone is helping you. = scroll of remove curse
 You are suddenly very hot! = ?? infravision? sensing the presence of monsters?
-
+Monsters turn to flee. = ??
+You hear a door open. = ??
+You feel a wrenching sensation. = you teleported
+You hear the footsteps of a guard on patrol. = vault on level?
 
 ## Graffiti
 
