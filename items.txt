@@ -98,6 +98,7 @@ an uncursed +0 helmet
 an uncursed +0 helmet (being worn)
 an uncursed +0 leather armor
 an uncursed +0 leather armor (being worn)
+an uncursed +0 leather cloak (being worn)
 an uncursed +0 leather jacket
 an uncursed +0 leather jacket (being worn)
 an uncursed +0 mummy wrapping
@@ -143,6 +144,7 @@ Comestibles
 2 uncursed tins of newt meat
 2 uncursed tripe rations
 3 uncursed food rations
+3 uncursed lembas wafers
 3 uncursed lichen corpses
 3 uncursed tins of jackal meat
 3 uncursed tins of newt meat
@@ -332,6 +334,7 @@ a +0 pick-axe
 a +0 pick-axe (alternate weapon; not wielded)
 a +0 pick-axe (weapon in hand)
 a bag of tricks (0:11)
+a bag of tricks (0:13)
 a blessed crystal ball (0:2)
 a blessed crystal ball (0:5)
 a can of grease (0:16)
@@ -356,6 +359,7 @@ a tinning kit (0:50)
 a tinning kit (0:51)
 a tinning kit (0:52)
 a tinning kit (0:58)
+a tinning kit (0:59)
 a tinning kit (0:63)
 a tinning kit (0:66)
 a tinning kit (0:68)
@@ -399,6 +403,7 @@ an uncursed jet stone
 an uncursed obsidian stone
 an uncursed touchstone
 an uncursed worthless piece of green glass
+an uncursed worthless piece of orange glass
 an uncursed worthless piece of white glass
 an uncursed worthless piece of yellowish brown glass
 
