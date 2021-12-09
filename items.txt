@@ -6,12 +6,16 @@ an uncursed amulet of unchanging
 an uncursed amulet versus poison (being worn)
 
 Weapons
+10 +0 arrows
+10 +0 darts
 10 cursed +0 darts
 11 cursed -2 arrows
 12 +0 arrows
 14 +0 darts
 2 +0 daggers
 2 +0 orcish daggers
+2 +0 orcish daggers named !c (wielded)
+25 +2 darts (at the ready)
 5 +0 crossbow bolts (in quiver pouch)
 5 blessed +1 darts
 6 +0 darts
@@ -20,8 +24,10 @@ Weapons
 9 +0 arrows
 9 +0 crossbow bolts
 9 +0 ya
+9 +1 darts
 9 blessed +1 crossbow bolts
 9 cursed -2 crossbow bolts
+a +0 boomerang (at the ready)
 a +0 crossbow
 a +0 dagger
 a +0 dart (at the ready)
@@ -40,6 +46,7 @@ a +0 scimitar
 a +0 sling
 a +0 two-handed sword
 a +1 arrow
+a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a +2 long sword (weapon in hand)
 a +3 bullwhip (weapon in hand)
@@ -54,6 +61,7 @@ a cursed +0 dwarvish mattock (weapon in hands)
 a cursed +0 two-handed sword
 a cursed -1 arrow
 a cursed -1 orcish dagger
+a cursed -1 scimitar
 a cursed rusty +0 long sword (weapon in hand)
 the +0 Sunsword
 the +1 Sting
@@ -65,6 +73,7 @@ a blessed +0 fedora (being worn)
 a blessed +0 leather cloak (being worn)
 a blessed +0 leather jacket
 a blessed +0 leather jacket (being worn)
+a blessed +0 orcish helm (being worn)
 a blessed +0 pair of low boots (being worn)
 a blessed +1 chain mail
 a blessed +1 dwarvish cloak (being worn)
@@ -82,6 +91,7 @@ a cursed -2 orcish ring mail
 a cursed -3 pair of fumble boots
 a pair of hiking boots
 an iron skull cap
+an uncursed +0 Hawaiian shirt (being worn)
 an uncursed +0 T-shirt with text "Down with pants!"
 an uncursed +0 banded mail (being worn)
 an uncursed +0 bronze plate mail (being worn)
@@ -108,8 +118,10 @@ an uncursed +0 orcish helm
 an uncursed +0 orcish helm (being worn)
 an uncursed +0 orcish shield (being worn)
 an uncursed +0 pair of elven boots
+an uncursed +0 pair of elven boots (being worn)
 an uncursed +0 pair of iron shoes (being worn)
 an uncursed +0 pair of jumping boots (being worn)
+an uncursed +0 pair of jumping boots named jumping (being worn)
 an uncursed +0 pair of leather gloves
 an uncursed +0 pair of speed boots (being worn)
 an uncursed +0 pair of water walking boots (being worn)
@@ -120,6 +132,7 @@ an uncursed +0 scale mail (being worn)
 an uncursed +0 splint mail
 an uncursed +0 splint mail (being worn)
 an uncursed +0 studded leather armor
+an uncursed +0 studded leather armor (being worn)
 an uncursed +1 dwarvish cloak (being worn)
 an uncursed +1 leather jacket
 an uncursed +1 leather jacket (being worn)
@@ -148,6 +161,7 @@ Comestibles
 3 uncursed lichen corpses
 3 uncursed tins of jackal meat
 3 uncursed tins of newt meat
+3 uncursed tripe rations
 4 uncursed food rations
 5 uncursed food rations
 a blessed tin of lichen
@@ -193,9 +207,12 @@ an uncursed tripe ration
 Scrolls
 2 uncursed scrolls of blank paper
 2 uncursed scrolls of enchant weapon
+2 uncursed scrolls of light
+2 uncursed scrolls of magic mapping
 a blessed scroll of confuse monster
 a blessed scroll of destroy armor
 a blessed scroll of food detection
+a blessed scroll of magic mapping
 a cursed scroll of amnesia
 a cursed scroll of blank paper
 a cursed scroll of enchant armor
@@ -220,6 +237,7 @@ an uncursed scroll of scare monster
 an uncursed scroll of teleportation
 
 Spellbooks
+a blessed spellbook of healing
 a blessed spellbook of identify
 an uncursed spellbook of blank paper
 an uncursed spellbook of charm monster
@@ -228,7 +246,9 @@ an uncursed spellbook of confuse monster
 an uncursed spellbook of cure sickness
 an uncursed spellbook of detect monsters
 an uncursed spellbook of detect treasure
+an uncursed spellbook of detect unseen
 an uncursed spellbook of dig
+an uncursed spellbook of fireball
 an uncursed spellbook of healing
 an uncursed spellbook of jumping
 an uncursed spellbook of knock
@@ -248,9 +268,11 @@ a blessed potion of gain energy
 a blessed potion of invisibility
 a blessed potion of levitation
 a blessed potion of oil
+a blessed potion of restore ability
 a blessed potion of see invisible
 a blessed potion of speed
 a brilliant blue potion
+a cursed potion of booze
 a cursed potion of extra healing
 a cursed potion of fruit juice
 a cursed potion of sickness
@@ -259,6 +281,7 @@ an uncursed potion of blindness
 an uncursed potion of booze
 an uncursed potion of confusion
 an uncursed potion of enlightenment
+an uncursed potion of extra healing
 an uncursed potion of fruit juice
 an uncursed potion of gain ability
 an uncursed potion of gain energy
@@ -317,8 +340,10 @@ a wand of enlightenment (0:13)
 a wand of fire (0:4)
 a wand of light (0:12)
 a wand of lightning (0:6)
+a wand of magic missile (0:0)
 a wand of magic missile (0:5)
 a wand of make invisible (0:5)
+a wand of nothing named sleep (0:5)
 a wand of polymorph (0:4)
 a wand of probing (0:4)
 a wand of secret door detection named nothing (0:14)
@@ -326,6 +351,7 @@ a wand of sleep (0:4)
 a wand of sleep (0:6)
 a wand of sleep named bugs stop moving (0:5)
 a wand of slow monster (0:3)
+a wand of striking (0:5)
 a wand of striking (0:7)
 a wand of undead turning (0:7)
 
@@ -340,6 +366,7 @@ a blessed crystal ball (0:5)
 a can of grease (0:16)
 a corroded +0 pick-axe
 a cursed lock pick
+a cursed oil lamp
 a cursed skeleton key
 a fire horn (0:5)
 a frost horn (0:7)
@@ -349,6 +376,7 @@ a magic marker (0:99)
 a tinning kit (0:26)
 a tinning kit (0:30)
 a tinning kit (0:31)
+a tinning kit (0:32)
 a tinning kit (0:33)
 a tinning kit (0:34)
 a tinning kit (0:38)
@@ -376,35 +404,48 @@ a tinning kit (0:86)
 a tinning kit (0:87)
 a tinning kit (0:88)
 a tinning kit (0:92)
+a tinning kit (0:95)
 an empty uncursed bag of holding
 an empty uncursed broken chest
 an empty uncursed sack
+an expensive camera (0:98)
 an expensive camera (0:99)
 an uncursed bell
 an uncursed blindfold
+an uncursed credit card
 an uncursed leash
 an uncursed lock pick
 an uncursed magic whistle
 an uncursed mirror
 an uncursed oil lamp
+an uncursed sack containing 1 item
 an uncursed sack containing 6 items
 an uncursed skeleton key
 an uncursed tin opener
 an uncursed tin whistle
 an uncursed towel
+an uncursed wooden harp
 
 Gems
+2 uncursed garnet stones
 2 uncursed jet stones
 2 uncursed worthless pieces of orange glass
 a cursed luckstone
+a cursed worthless piece of violet glass
 an uncursed agate stone
 an uncursed aquamarine stone
+an uncursed jade stone
 an uncursed jet stone
 an uncursed obsidian stone
 an uncursed touchstone
+an uncursed worthless piece of blue glass
 an uncursed worthless piece of green glass
 an uncursed worthless piece of orange glass
+an uncursed worthless piece of red glass
 an uncursed worthless piece of white glass
 an uncursed worthless piece of yellowish brown glass
+
+Iron balls
+an uncursed heavy iron ball (chained to you) (weapon in hand)
 
 (end)
