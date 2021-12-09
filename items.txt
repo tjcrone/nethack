@@ -40,6 +40,7 @@ a +0 lucern hammer
 a +0 mace
 a +0 morning star
 a +0 orcish dagger
+a +0 orcish dagger (at the ready)
 a +0 orcish short sword
 a +0 quarterstaff
 a +0 scimitar
@@ -50,6 +51,7 @@ a +2 bullwhip
 a +2 bullwhip (weapon in hand)
 a +2 long sword (weapon in hand)
 a +3 bullwhip (weapon in hand)
+a blessed +0 bow
 a blessed +0 orcish dagger (alternate weapon; not wielded)
 a blessed +1 flail (wielded in other hand)
 a blessed +2 bullwhip
@@ -112,6 +114,7 @@ an uncursed +0 leather cloak (being worn)
 an uncursed +0 leather jacket
 an uncursed +0 leather jacket (being worn)
 an uncursed +0 mummy wrapping
+an uncursed +0 mummy wrapping (being worn)
 an uncursed +0 oilskin cloak (being worn)
 an uncursed +0 orcish chain mail (being worn)
 an uncursed +0 orcish helm
@@ -119,6 +122,7 @@ an uncursed +0 orcish helm (being worn)
 an uncursed +0 orcish shield (being worn)
 an uncursed +0 pair of elven boots
 an uncursed +0 pair of elven boots (being worn)
+an uncursed +0 pair of iron shoes
 an uncursed +0 pair of iron shoes (being worn)
 an uncursed +0 pair of jumping boots (being worn)
 an uncursed +0 pair of jumping boots named jumping (being worn)
@@ -150,6 +154,7 @@ Comestibles
 2 uncursed food rations
 2 uncursed fortune cookies
 2 uncursed lichen corpses
+2 uncursed oranges
 2 uncursed tins of fox meat
 2 uncursed tins of gnome lord meat
 2 uncursed tins of goblin meat
@@ -205,10 +210,13 @@ an uncursed tin of spinach
 an uncursed tripe ration
 
 Scrolls
+2 blessed scrolls of blank paper
 2 uncursed scrolls of blank paper
 2 uncursed scrolls of enchant weapon
 2 uncursed scrolls of light
 2 uncursed scrolls of magic mapping
+4 uncursed scrolls of blank paper
+5 uncursed scrolls of blank paper
 a blessed scroll of confuse monster
 a blessed scroll of destroy armor
 a blessed scroll of food detection
@@ -288,6 +296,7 @@ an uncursed potion of gain energy
 an uncursed potion of gain level
 an uncursed potion of hallucination
 an uncursed potion of healing
+an uncursed potion of invisibility
 an uncursed potion of levitation
 an uncursed potion of monster detection
 an uncursed potion of object detection
@@ -304,6 +313,7 @@ an uncursed ring of teleportation
 Rings
 a blessed +1 ring of increase damage
 a cursed -1 ring of gain constitution (on left hand)
+a cursed -1 ring of increase accuracy
 a cursed ring of hunger
 a cursed ring of poison resistance
 a cursed ring of teleportation (on right hand)
@@ -343,6 +353,7 @@ a wand of lightning (0:6)
 a wand of magic missile (0:0)
 a wand of magic missile (0:5)
 a wand of make invisible (0:5)
+a wand of make invisible named nm (0:3)
 a wand of nothing named sleep (0:5)
 a wand of polymorph (0:4)
 a wand of probing (0:4)
@@ -424,6 +435,8 @@ an uncursed skeleton key
 an uncursed tin opener
 an uncursed tin whistle
 an uncursed towel
+an uncursed towel (being worn)
+an uncursed wooden flute
 an uncursed wooden harp
 
 Gems
@@ -434,6 +447,7 @@ a cursed luckstone
 a cursed worthless piece of violet glass
 an uncursed agate stone
 an uncursed aquamarine stone
+an uncursed flint stone
 an uncursed jade stone
 an uncursed jet stone
 an uncursed obsidian stone
