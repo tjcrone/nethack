@@ -53,6 +53,10 @@ class Nethack < Formula
       # Enable wizard mode for all users
       inreplace "sysconf", /^WIZARDS=.*/, "WIZARDS=*"
 
+      # Enable the dumplog in my nethack directory
+      inreplace "sysconf", "#DUMPLOGFILE=/tmp/nethack.%n.%d.log",
+                           "DUMPLOGFILE=/Users/tjc/nethack/nethack.%n.%d.log"
+
       # Enable curses interface
       # Setting VAR_PLAYGROUND preserves saves across upgrades
       inreplace "hints/#{hintfile}" do |s|
