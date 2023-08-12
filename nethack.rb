@@ -61,6 +61,7 @@ class Nethack < Formula
         s.change_make_var! "CHGRP", "true"
         s.gsub! "#WANT_WIN_CURSES=1",
                 "WANT_WIN_CURSES=1\nCFLAGS+=-DVAR_PLAYGROUND='\"#{HOMEBREW_PREFIX}/share/nethack\"'"
+        s.gsub! "DDLB", "DDLB\nCFLAGS+= -DDUMP"
       end
 
       system "sh", "setup.sh", "hints/#{hintfile}"
