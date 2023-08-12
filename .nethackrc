@@ -1,0 +1,280 @@
+#--------------------------------------
+# GENERAL
+
+OPTIONS=extmenu
+OPTIONS=perm_invent
+
+OPTIONS=term_cols:140
+OPTIONS=term_rows:30
+
+#--------------------------------------
+# LOGGING
+DUMPLOGFILE=/Users/tjc/nethack/nethack.%n.%d.log
+
+#--------------------------------------
+# USER
+
+OPTIONS=name:Slowloris
+OPTIONS=dogname:Wobblesaurus
+OPTIONS=catname:Dumptruck
+OPTIONS=horsename:Fanta
+OPTIONS=fruit:kiwi
+
+
+#--------------------------------------
+# GAMEPLAY
+OPTIONS=autoquiver
+OPTIONS=autodig
+OPTIONS=norest_on_space
+#OPTIONS=!cmdassist
+
+
+#--------------------------------------
+# DISPLAY
+OPTIONS=showexp, showscore, time, color
+
+
+#--------------------------------------
+# AUTOPICKUP
+
+OPTIONS=autopickup
+# gold,scrolls,potions,wands,rings,amulets,spellbooks,corpses
+OPTIONS=pickup_types:$?!/="+%
+OPTIONS=pickup_burden:unencumbered
+
+# Always pick these:
+AUTOPICKUP_EXCEPTION="<magic lamp"
+#AUTOPICKUP_EXCEPTION="<Amulet of Yendor named"
+
+# Don't pick these:
+AUTOPICKUP_EXCEPTION=">scroll of scare monster"
+AUTOPICKUP_EXCEPTION=">worthless piece of"
+AUTOPICKUP_EXCEPTION=">load stone"
+AUTOPICKUP_EXCEPTION=">flint stone"
+#AUTOPICKUP_EXCEPTION=">Amulet of Yendor"
+
+# no empty wands or wands of nothing
+AUTOPICKUP_EXCEPTION=">:0)"
+AUTOPICKUP_EXCEPTION="> named empty"
+AUTOPICKUP_EXCEPTION="> nothing"
+
+# corpses
+AUTOPICKUP_EXCEPTION="> corpse"
+AUTOPICKUP_EXCEPTION="<lichen corpse" 
+AUTOPICKUP_EXCEPTION="<lizard corpse" 
+AUTOPICKUP_EXCEPTION="<newt corpse"
+AUTOPICKUP_EXCEPTION="<floating eye corpse"
+AUTOPICKUP_EXCEPTION="<wraith corpse"
+
+# too good to miss
+AUTOPICKUP_EXCEPTION="<wand .* wish"
+AUTOPICKUP_EXCEPTION="<wand .* create monster"
+AUTOPICKUP_EXCEPTION="<wand .* tele"
+#AUTOPICKUP_EXCEPTION="<wand .* poly"
+AUTOPICKUP_EXCEPTION="<wand .* fire"
+AUTOPICKUP_EXCEPTION="<wand .* lightning"
+AUTOPICKUP_EXCEPTION="<wand .* death"
+#AUTOPICKUP_EXCEPTION=">wand .* cold$" # For Juiblex's swamp
+AUTOPICKUP_EXCEPTION="<magic marker"
+AUTOPICKUP_EXCEPTION="< lamp"
+AUTOPICKUP_EXCEPTION="> oil lamp"
+AUTOPICKUP_EXCEPTION="> lamp .* oil"
+AUTOPICKUP_EXCEPTION="<amulet .* life"
+AUTOPICKUP_EXCEPTION="<athame"
+
+# don't pick up loadstones
+AUTOPICKUP_EXCEPTION="> loadstone"
+AUTOPICKUP_EXCEPTION="<stone called luck"
+AUTOPICKUP_EXCEPTION="< luckstone"
+#AUTOPICKUP_EXCEPTION="< touchstone"
+AUTOPICKUP_EXCEPTION="> rock"
+AUTOPICKUP_EXCEPTION="> gray stone"
+
+
+#--------------------------------------
+# GRAPHICS
+
+OPTIONS=hilite_pet
+OPTIONS=hilite_pile
+
+SYMBOLS=S_ghost:X
+SYMBOLS=S_lava:~
+SYMBOLS=S_pool:~
+SYMBOLS=S_water:~
+SYMBOLS=S_boulder:0
+
+OPTIONS=!sparkle
+OPTIONS=dark_room
+
+
+#--------------------------------------
+# MENU COLORS
+
+OPTIONS=menucolors
+MENUCOLOR=" blessed "=blue
+MENUCOLOR=" holy "=blue
+MENUCOLOR=" cursed "=red
+MENUCOLOR=" unholy "=red
+MENUCOLOR=" cursed .* (being worn)"=red&underline
+
+# Make Vegan GREEN & BOLD
+MENUCOLOR="(food |cram |K-|C-)ration|gunyoki"=green&bold
+MENUCOLOR="lembas wafer|melon|carrot|tin .* spinach"=green&bold
+MENUCOLOR=" oranges?( named.*)?$"=green&bold
+MENUCOLOR=" pears?( named.*)?$"=green&bold
+MENUCOLOR=" apple|banana|kelp|eucalyptus|garlic|wolfsbane"=green&bold
+MENUCOLOR=" muffin"=green&bold
+MENUCOLOR="(tin of )?(gelatinous cube|acid blob|quivering blob)( corpse)?"=green&bold
+MENUCOLOR="(tin of )?(blue|spotted|ochre) jelly( corpse)?"=green&bold
+MENUCOLOR="(tin of )?lichen|shrieker|violet fungus|(brown|yellow|green|red) mold( corpse)?"=green&bold
+
+# Shiny things
+MENUCOLOR=" lamp"=yellow
+MENUCOLOR=" candle"=yellow
+MENUCOLOR=" magic lamp|lamp .* magic"=yellow&bold
+#MENUCOLOR=" gold piece"=yellow
+
+# Dangerous with Bag of Holding
+MENUCOLOR=" cursed.* bag .* holding"=orange&underline
+MENUCOLOR=" bag .* tricks"=orange&underline
+MENUCOLOR=" wand of [Cc]ancel.*"=orange&underline
+MENUCOLOR=" wand called [Cc]ancel.*"=orange&underline
+MENUCOLOR=" wand .* van"=orange&underline
+MENUCOLOR=" wand called .* vanish( .*)?$"=orange&underline
+
+# Really bad cursed things to have
+MENUCOLOR="[Ll]oadstone"=orange&underline
+MENUCOLOR=" cursed.* luck(stone)?($| )"=orange&bold
+MENUCOLOR=" cursed.* (Bell of Opening|silver bell|Candelabrum of Invocation|candelabrum|Book of the Dead|papyrus spellbook)"=orange&bold
+MENUCOLOR=" cursed.* unicorn horn"=orange&bold
+
+
+#--------------------------------------
+# STATUS HIGHLIGHTS
+
+OPTIONS=statushilites
+
+# HP
+OPTIONS=hitpointbar
+OPTIONS=hilite_status:hitpoints/100%/grey&normal
+OPTIONS=hilite_status:hitpoints/<100%/green&normal
+OPTIONS=hilite_status:hitpoints/<66%/yellow&normal
+OPTIONS=hilite_status:hitpoints/<50%/orange&normal
+OPTIONS=hilite_status:hitpoints/<33%/red&bold
+OPTIONS=hilite_status:hitpoints/<15%/red&inverse
+
+## Pw
+OPTIONS=hilite_status:power/100%/grey&normal
+OPTIONS=hilite_status:power/<100%/green&normal
+OPTIONS=hilite_status:power/<66%/yellow&normal
+OPTIONS=hilite_status:power/<50%/orange&normal
+OPTIONS=hilite_status:power/<33%/red&bold
+
+## Carry
+OPTIONS=hilite_status:cap/burdened/yellow/stressed/orange/strained/red&bold/overtaxed/red&inverse/overloaded/red&inverse&blink
+
+## Hunger
+OPTIONS=hilite_status:hunger/satiated/yellow/hungry/orange/weak/red&bold/fainting/red&inverse/fainted/red&inverse&blink
+
+## Mental
+OPTIONS=hilite_status:condition/hallu/yellow
+OPTIONS=hilite_status:condition/conf/orange
+OPTIONS=hilite_status:condition/stun/red&bold
+
+## Health
+OPTIONS=hilite_status:condition/termill/red&inverse
+OPTIONS=hilite_status:condition/foodpois/red&inverse
+OPTIONS=hilite_status:condition/slime/red&inverse
+
+# Str, Con, Dex, Int, Wis, Cha
+OPTIONS=hilite_status:characteristics/up/green/down/red
+
+# gold
+OPTIONS=hilite_status: gold/up/yellow/down/brown
+
+
+#--------------------------------------
+# MESSAGES
+
+OPTIONS=msg_window:single
+OPTIONS=msghistory:10000
+
+# Monotonous, mundane messages
+MSGTYPE=norep "You see here a .*"
+MSGTYPE=norep "You see here an .*"
+#MSGTYPE=hide "You drop .*"
+MSGTYPE=hide "You swap places with .*"
+MSGTYPE=hide "You descend .*"
+MSGTYPE=hide "You (climb|fly) (up|down) .*"
+#MSGTYPE=hide "Restoring save file..." #noobhack
+#MSGTYPE=hide "With great effort you move the boulder."
+#MSGTYPE=hide "Perhaps that's why you cannot move it."
+#MSGTYPE=hide "You cannot drop something you are wearing."
+#MSGTYPE=hide "You have a little trouble removing .*"
+#MSGTYPE=hide "Your movements are now unencumbered."
+
+#MSGTYPE=hide "You feel full of energy"
+#MSGTYPE=hide "You are in full health"
+
+#MSGTYPE=hide "Aloha .*"
+
+## delayed instadeaths. always prompt for -more-
+MSGTYPE=stop "You are slowing down."
+MSGTYPE=stop "You find it hard to breathe."
+MSGTYPE=stop "You are turning a little .*"
+
+
+# Stash and container spam
+# caution when typing fast -- the suppressed msg may catch the keystroke intended for the actual loot menu
+#MSGTYPE=hide "You put .* into the .*"
+#MSGTYPE=hide "You cannot stash something you are wearing."
+#MSGTYPE=hide "You carefully open the .*"
+#MSGTYPE=hide "You open the .*"
+
+# Shop spam
+#MSGTYPE=hide "For you, .*"
+#MSGTYPE=hide "You bought .*"
+#MSGTYPE=hide "Thank you for shopping in .*"
+
+# Altar spam
+MSGTYPE=hide ".* land on the altar."
+MSGTYPE=hide ".* lands on the altar."
+MSGTYPE=hide "There is a black flash as .*"
+MSGTYPE=hide "There is an amber flash as .*"
+
+# unclogging the screen
+MSGTYPE=hide "Your tentacles suck the .*"
+
+# items on floor
+#MSGTYPE=norep "You see here a.*"
+
+# delayed instadeaths
+MSGTYPE=stop "The .* (grabs|swings itself around) you!"
+MSGTYPE=stop "You don't feel very well."
+MSGTYPE=stop "You are turning a little green."
+MSGTYPE=stop "Your limbs are getting oozy."
+MSGTYPE=stop "Your skin begins to peel away."
+MSGTYPE=stop "You are turning into a green slime."
+MSGTYPE=stop "You are slowing down."
+MSGTYPE=stop "Your limbs are stiffening."
+MSGTYPE=stop "It constricts your throat!"
+MSGTYPE=stop "You find it hard to breathe."
+MSGTYPE=stop "You're gasping for air."
+MSGTYPE=stop "Your blood is having trouble reaching your brain."
+MSGTYPE=stop "You can no longer breathe."
+MSGTYPE=stop "You're turning blue."
+MSGTYPE=stop "Your consciousness is fading."
+MSGTYPE=stop "You feel deathly sick."
+MSGTYPE=stop "You feel (much|even) worse."
+
+# Things that aren't dangerous by themselves but could kill you if you don't notice.
+MSGTYPE=stop "You fail to cast the spell correctly."
+MSGTYPE=stop "You see here a c(hi|o)ckatrice corpse." 
+MSGTYPE=stop "You are beginning to feel weak."
+
+# Don't speed past wrest message when wresting
+MSGTYPE=stop "You wrest .*"
+
+# Don't miss the vibrating square
+MSGTYPE=stop "You feel a strange vibration under your *."
+MSGTYPE=stop "You feel a strange vibration beneath you."
