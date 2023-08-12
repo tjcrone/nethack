@@ -52,6 +52,7 @@ Your hands glow a brilliant red. = ??
 Your hands no longer glow so brightly red. = ??
 You feel threatened - you can move again. = ??
 You feel strong!  You must have been exercising diligently.  You feel tough!
+You feel wise! = ??
 
 ## Graffiti
 
