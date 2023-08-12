@@ -8,10 +8,6 @@ OPTIONS=term_cols:140
 OPTIONS=term_rows:30
 
 #--------------------------------------
-# LOGGING
-DUMPLOGFILE=/Users/tjc/nethack/nethack.%n.%d.log
-
-#--------------------------------------
 # USER
 
 OPTIONS=name:Slowloris
