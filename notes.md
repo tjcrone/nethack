@@ -20,7 +20,7 @@ You are dead.
 
 A few ice cubes drop from the wand. = cold
 The bugs on the floor stop moving! = sleep | death 
-no message = cancellation | undead turning | make invisible
+no message = cancellation | undead turning | make invisible | probing
 The wand unsuccessfully fights your attempt to write! = striking
 The floor is riddled by bullet holes! = magic missile
 
@@ -45,6 +45,13 @@ You hear a door open. = new monsters enter level?
 You feel a wrenching sensation. = you teleported
 You hear the footsteps of a guard on patrol. = vault on level?
 You feel a mild buzz. = ??
+You feel yourself speed up. = you put on speed boots.
+You feel yourself slow down. = you take off or lose speed boots.
+You have a strange feeling for a moment, then it passes. = ??
+Your hands glow a brilliant red. = ??
+Your hands no longer glow so brightly red. = ??
+You feel threatened - you can move again. = ??
+You feel strong!  You must have been exercising diligently.  You feel tough!
 
 ## Graffiti
 
